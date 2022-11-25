@@ -4,7 +4,7 @@ import Coins from "./routes/Coins"
 
 function Router (){
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="https://wookminkang.github.io/webcoin/">
             <Switch>
                 <Route path="/:coinId">
                     <Coin />
