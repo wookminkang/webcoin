@@ -50,7 +50,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://wookminkang.github.io/webcoin/",
+  "homepage": "https://wookminkang.github.io/webcoin",
   "devDependencies": {
     "@types/react-helmet": "^6.1.5",
     "@types/react-router-dom": "^5.3.3",
