@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/webcoin/static/js/main.229c870e.js",
+    "main.js": "/webcoin/static/js/main.76da6bba.js",
     "static/js/787.1f013cd5.chunk.js": "/webcoin/static/js/787.1f013cd5.chunk.js",
     "index.html": "/webcoin/index.html",
-    "main.229c870e.js.map": "/webcoin/static/js/main.229c870e.js.map",
+    "main.76da6bba.js.map": "/webcoin/static/js/main.76da6bba.js.map",
     "787.1f013cd5.chunk.js.map": "/webcoin/static/js/787.1f013cd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.229c870e.js"
+    "static/js/main.76da6bba.js"
   ]
 }
